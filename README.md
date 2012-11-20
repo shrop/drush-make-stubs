@@ -1,0 +1,5 @@
+## Drush Make stub files
+
+This is a collection of Drush Make stub files which I use for starting new Drupal apps/sites. A stub file declares a version of Drupal core and an install profile to build.
+
+Learn more about drush make [here](http://drupal.org/project/drush) and [here](http://drush.ws/#make).
